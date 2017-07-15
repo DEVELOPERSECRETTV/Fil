@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0kE8BgZ.png" group-title="On Demand", STAN IPTV Atualizada 30/06/2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0kE8BgZ.png" group-title="On Demand", STAN IPTV Atualizada 07/07/2017
 http://fb.com/STANIPTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0kE8BgZ.png" group-title="On Demand", www.staniptv.com 
+www.staniptv.com 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0kE8BgZ.png" group-title="On Demand", Curta no Face:fb.com/STANIPTV
 http://fb.com/STANIPTV
 
